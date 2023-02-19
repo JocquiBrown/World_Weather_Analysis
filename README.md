@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-New World_Weather_Analysis repo
+Updating the PlanMyTrip app to provide new information for each city, such as current weather descriptions; as well as allowing beta testers to enter weather preferences to filter the data for potential travel destinations and nearby hotels. Once this has been accomplished beta testers will then choose four cities from the list of preferred destinations and create a travel itinerary. Afterwards a travel route between the cities will be generated for the tester.
